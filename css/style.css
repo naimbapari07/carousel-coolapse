@@ -1,0 +1,34 @@
+.bannar{
+    background-image:url(../images/auto1.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+ }
+ .silder{
+    background-color: rgba(1, 1, 1, .3);
+    padding: 70px;
+ }
+ .silder h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+ }
+ .silder p{
+    font-size: 20px;
+    margin-bottom: 30px;
+ }
+ .silder button{
+  margin-bottom: 50px;
+  margin-top: 30px;
+ }
+ .carousel-indicators {
+    bottom: 30px;
+     
+}
+.carousel-indicators [data-bs-target] {
+     
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: rgba(1, 1, 1, .5);
+}

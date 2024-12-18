@@ -1,0 +1,73 @@
+
+/*  Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {  
+ .silder h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+.silder p {
+    font-size: 12px; 
+  }
+.silder {
+    
+    padding: 35px;
+  }
+  .silder button {
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+     
+}
+.carousel-indicators {
+    bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .silder h1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.silder p {
+    font-size: 14px; 
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+}
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+}
